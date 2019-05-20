@@ -36,7 +36,7 @@ $ npm i egg-msg-flash --save
 // {app_root}/config/plugin.js
 exports.flash = {
   enable: true,
-  package: 'egg-msg-flash'
+  package: 'egg-msg-flash-dx'
 }
 ```
 
