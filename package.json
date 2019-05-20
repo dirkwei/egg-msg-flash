@@ -34,6 +34,7 @@
     "cov": "egg-bin cov",
     "lint": "eslint .",
     "ci": "egg-bin pkgfiles --check && npm run lint && npm run cov",
+    "ci2": "egg-bin pkgfiles --check && npm run cov",
     "pkgfiles": "egg-bin pkgfiles",
     "autod": "autod"
   },
